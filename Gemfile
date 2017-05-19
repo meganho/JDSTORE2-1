@@ -46,7 +46,7 @@ gem 'aasm'
 gem 'figaro'
 gem 'fog'
 
-gem 'bootstrap-sass'
+
 
 
 
